@@ -2,7 +2,7 @@
 
 You can read my personal articles over at [ronaldsmith.com](https://www.ronaldsmith.com)
 
-# Most references articles
+# Most referenced articles
 
 ## Management articles
 * [The Hazards of a “Nice” Company Culture](https://hbr.org/2021/06/the-hazards-of-a-nice-company-culture)
